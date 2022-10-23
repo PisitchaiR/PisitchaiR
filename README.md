@@ -14,5 +14,5 @@ Hi, I’m @PisitchaiR. I'm student in kmitl
 </p>
 
 ![](https://raw.githubusercontent.com/PisitchaiR/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/PisitchaiR/github-stats-transparent/output/generated/languages.svg)
+![](https://github.com/PisitchaiR/github-stats-transparent/blob/output/generated/overview.svg)
 
